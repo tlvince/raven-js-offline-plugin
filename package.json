@@ -1,0 +1,12 @@
+{
+  "name": "raven-js-offline-plugin",
+  "version": "1.0.0",
+  "description": "Raven.js/Sentry offline storage plugin.",
+  "main": "offline-storage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-2-Clause"
+}
